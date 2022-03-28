@@ -5,9 +5,9 @@
 -- Obs. O projeto pode ser o mais simples possível, um CRUD, um conversor de medidas , etc.
 
 - Criar testes unitários para métodos utilizando 
- - JUNIT 
- - MOCKITO0 .
- - TESTContainers
+     - JUNIT 
+    -  MOCKITO0 .
+    - TESTContainers
 
 - Expor o health check do seu projeto com o Actuator.
 - Exportar métricas do seu projeto para o formato do Prometheus utilizando o micrometer. 
