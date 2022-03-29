@@ -7,7 +7,7 @@
 - Criar testes unitários para métodos utilizando 
      - JUNIT 
     -  MOCKITO0 .
-    - TESTContainers
+    - TESTContainers (Opcional)
 
 - Expor o health check do seu projeto com o Actuator.
 - Exportar métricas do seu projeto para o formato do Prometheus utilizando o micrometer. 
